@@ -2,7 +2,7 @@
 
 welcome welcome welcome
 
-# this is my pwa GPTapp. feel free to install! it's a fun cool personal assistant! lol   
+# this is my pwa gpt app. feel free to install! it's a fun cool personal assistant!
 
 ## So about  
 AK-GPT is a simple, lightweight, and accessible personal assistant powered by **OpenAI**. 
