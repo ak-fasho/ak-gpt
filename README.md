@@ -1,4 +1,4 @@
-# AK-GPT fasho 🥷
+# it's ak-GPT fasho 🥷
 
 welcome welcome welcome
 
