@@ -1,10 +1,9 @@
-# it's ak-GPT fasho 🥷
-
-welcome welcome welcome
+# welcome to ak-GPT
 
 # this is my pwa gpt app. feel free to install! it's a fun cool personal assistant!
 
-## So about  
+## So about it
+
 AK-GPT is a simple, lightweight, and accessible personal assistant powered by **OpenAI**. 
 you can chat, ask questions, and get things done—anytime, anywhere! 
 You may nstall it on any device you like.  
